@@ -1,9 +1,9 @@
 # 🏠 Loan Prediction Problem
 
-A machine learning project focused on binary classification, designed to automate the loan eligibility process for a housing finance company. This solution involves structured steps including data analysis, pre-processing, feature engineering, and model building.
+This is a machine learning project focused on binary classification designed to automate the loan eligibility process for a housing finance company. This solution involves structured steps, including data analysis, pre-processing, feature engineering, and model building.
 # 📌 Problem Statement
 
-Dream Housing Finance is a company that offers home loans across urban, semi-urban, and rural areas. Currently, customers apply for loans via an online form. The company aims to automate the real-time prediction of loan eligibility based on customer details. These customer details include:
+Dream Housing Finance is a company that offers home loans across urban, semi-urban, and rural areas. Currently, customers apply for loans online. The company aims to automate the real-time prediction of loan eligibility based on customer details. These customer details include:
 
 | Feature                    | Description                                      |
 |----------------------------|--------------------------------------------------|
@@ -43,12 +43,12 @@ This project addresses a binary classification problem, where the goal is to pre
 
 - Creation of new relevant features to enhance predictive performance.
 - Comparison of various classification algorithms.
-- Evaluation using accuracy, precision, recall, and ROC-AUC score.
+- Evaluation using accuracy, precision, recall, and ```ROC-AUC score```.
 - Final model selection based on performance metrics
 
 ## 4. Variable description
 
-![Image](https://github.com/user-attachments/assets/c1030713-c554-4eca-8eae-54a9d98567cc)
+![Image](https://github.com/user-attachments/assets/1dca380c-1a34-4c0b-a1d4-9e9416813c0a)
 
 ## 5. Evaluation Metrics
 
