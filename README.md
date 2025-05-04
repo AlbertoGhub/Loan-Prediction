@@ -79,7 +79,7 @@ The process of model development is incomplete without a thorough evaluation of 
 
 - **The area under the curve (AUC):** The metric, often termed the accuracy index (A) or concordance index, is widely recognised as an optimal performance measure for the ROC curve. A larger area under the curve (AUC) signifies enhanced predictive performance of the model. The following provides an illustration of a typical ROC curve:
 
-![Image](https://github.com/user-attachments/assets/fcc92da2-071a-47b0-9a14-386524c6de84)
+![Image](https://github.com/user-attachments/assets/9aff10c2-dccd-4150-98e4-40c294e8beb3)
 
 - The area under the curve (AUC) quantifies the model's ability to correctly classify both true positives and true negatives. Ideally, the model should predict true classes as true and false classes as false.
 
@@ -118,12 +118,6 @@ The process of model development is incomplete without a thorough evaluation of 
 # 📈 Output Plot (Pending on modification)
 
 As can be observed, there is a strong linear relationship between the independent variable (X) and the dependent variable (Y). This indicates that the linear regression model performs well on the test data, demonstrating good generalisation, low error, and a strong linear fit.
-
-### Training set (PENDINENTES DE AGREGAR IMAGENES)
-![Alt Text](/Users/alberto/Documents/Coding/7_DataScience_ML_projects/Linear_Regression/1_Simple_Linear_regression/Images/training_results.png)
-
-### Testing set
-![Alt Text](/Users/alberto/Documents/Coding/7_DataScience_ML_projects/Linear_Regression/1_Simple_Linear_regression/Images/testing_results.png)
 
 ## 🧪 Model and Evaluation Metrics:
 
