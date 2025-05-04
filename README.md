@@ -96,14 +96,34 @@ The process of model development is incomplete without a thorough evaluation of 
 
 ```bash
 ├── data/
-│   └── dataset.csv
+│   └── train.csv
+│   └── test.csv
 ├── notebooks/
-│   └── analysis_and_modelling.ipynb
-├── outputs/
-│   ├── predictions/
-│   └── plots/
+│   └── main.ipynb
+├── src/
+│   └── modules
+|       └── __init__.py
+|       └── data_handling.py
+|       └── visualisation.py
+├── images/
+│   ├── 1_Loan_Status.png
+│   ├── 2_feature.png
+│   ├── 3_feature.png
+│   ├── 4_grouped.png
+│   ├── 5_applicant_income.png
+│   ├── 6_applicant_income_comparison.png
+│   ├── 7_co-applicant_income.png
+│   ├── 8_co-applicant_income_comparison.png
+│   ├── 9_combined_income.png
+│   ├── 10_total_income_comparison.png
+│   ├── 11_loanAmount_analysis.png
+│   ├── 12_loanAmount_analysis.png
+│   ├── 13_correlation_matrix.png
+│   ├── 14_applicant_income_distribution.png
+│   ├── 15_applicant_income_distribution.png
+│   ├── Variable description.png
 ├── README.md
-└── requirements.txt
+└── environment.yml
 ```
 # 🚀 How to Run (pending to correct)
 
@@ -171,7 +191,7 @@ sys & os – For handling system-specific parameters and file paths.
 
 Made with ❤️ by Alberto AJ - AI/ML Engineer.
 
-## 📢 Bonus: GitHub Badges
+## 📢 GitHub Badges
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/ML-ScikitLearn-orange?logo=scikit-learn)
