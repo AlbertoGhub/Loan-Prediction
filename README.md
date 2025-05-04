@@ -53,8 +53,8 @@ This project addresses a binary classification problem, where the goal is to pre
 ## 5. Evaluation Metrics
 
 The process of model development is incomplete without a thorough evaluation of its performance. In the context of a classification task, performance can be assessed using various evaluation metrics. One commonly used approach involves the confusion matrix, which provides a tabular summary comparing actual and predicted classifications. This allows for a clearer understanding of the model’s effectiveness across different outcome categories.
-    
-![Image](https://github.com/user-attachments/assets/4ec525c9-d02c-45b3-b711-17ea741132f6)
+
+![Image](https://github.com/user-attachments/assets/0ac5b31b-9ff4-4c75-bce0-9c09776a8691)
 
 - True Positive – Targets which are actually true(Y) and we have predicted them as true(Y)
 - True Negative – Targets that are actually false(N) and we have predicted them as false(N)
