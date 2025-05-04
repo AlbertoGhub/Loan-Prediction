@@ -73,7 +73,7 @@ The process of model development is incomplete without a thorough evaluation of 
 
 **_NOTE: Specificity and sensitivity are fundamental in the derivation of the ROC curve. These metrics can be calculated as demonstrated below:_**
 
-![Image](https://github.com/user-attachments/assets/17c197cc-e147-41e5-a92e-561b997b8029)
+![Image](https://github.com/user-attachments/assets/8cdc6a46-8117-4a37-a095-789cef498534)
 
 - **Receiver Operating Characteristic(ROC):** The model’s performance is assessed by evaluating the trade-offs between the true positive rate (sensitivity) and the false positive rate (1 - specificity). This analysis provides insight into the model’s ability to correctly identify positive cases while minimising the occurrence of false positives. The balance between these metrics is crucial for understanding the model’s effectiveness in different scenarios, and allows for the optimisation of its predictive accuracy based on the specific requirements of the task at hand.
 
